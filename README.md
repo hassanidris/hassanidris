@@ -35,6 +35,6 @@ A platform connecting DJs, event organizers, and music fans.
 
 ## 📫 Connect with me
 
-- LinkedIn
-- Portfolio
-- Email
+- [💼 LinkedIn](https://www.linkedin.com/in/hassanidris)
+- [🌐 DJcovery](https://djcovery.com)
+- [📧 Email](mailto:hassan.creative@gmail.com)
