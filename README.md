@@ -36,5 +36,5 @@ A platform connecting DJs, event organizers, and music fans.
 ## 📫 Connect with me
 
 - [💼 LinkedIn](https://www.linkedin.com/in/hassanidris)
-- [🌐 DJcovery](https://djcovery.com)
+- [🌐 Portfolio](https://portfolio-hassen-ahmeds-projects.vercel.app/)
 - [📧 Email](mailto:hassan.creative@gmail.com)
