@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Hassen Ahmed 👋
 
-<!--
-**hassanidris/hassanidris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend & Full-Stack Developer based in Sweden 🇸🇪
 
-Here are some ideas to get you started:
+I'm currently building **DJcovery**, a platform that helps DJs get discovered, booked, and build their reputation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Focus
+
+- Building DJcovery
+- Next.js & TypeScript
+- Supabase
+- AI-powered web applications
+- Scalable SaaS architecture
+
+## 🛠 Tech Stack
+
+- Next.js
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Prisma
+- PostgreSQL
+- Node.js
+- Vercel
+- GitHub Actions
+
+## 🌟 Featured Project
+
+### DJcovery
+
+A platform connecting DJs, event organizers, and music fans.
+
+**Live:** https://djcovery.com
+
+## 📫 Connect with me
+
+- LinkedIn
+- Portfolio
+- Email
